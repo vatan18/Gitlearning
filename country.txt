@@ -1,0 +1,9 @@
+
+Country	       Continent	    Population
+China	       Asia	            1 415 045 928
+India	       Asia	            1 354 051 854
+United States  America	        326 766 748
+Indonesia	   Asia	            266 794 980
+Brazil	       America	        210 867 954
+Pakistan	   Asia	            200 813 818
+Nigeria	       Africa	        195 875 237
