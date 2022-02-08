@@ -7,3 +7,4 @@ Indonesia	   Asia	            266 794 980
 Brazil	       America	        210 867 954
 Pakistan	   Asia	            200 813 818
 Nigeria	       Africa	        195 875 237
+Bangladesh     Asia             166 368 123
